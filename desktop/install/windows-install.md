@@ -29,7 +29,7 @@ _For checksums, see [Release notes](../release-notes.md)_
 
 ## System requirements
 
-You must meet the following requirements to successfully install Docker Desktop on Windows:
+You must meet the following requirements to successfully install Docker on Windows:
 
 <ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" data-target="#win-wsl2">WSL 2 backend</a></li>
